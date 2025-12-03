@@ -202,6 +202,7 @@ nav {
     margin: 12px 0 20px;
     margin-bottom: 0px;
 }
+
 /* Form */
 form input {
     width: 100%;
@@ -260,11 +261,11 @@ form input {
 .login-link {
     text-align: center;
     color: #bbb;
-    margin-top:8px;
+    margin-top: 8px;
 }
 
 .login-link a {
-    color:  #0930de;
+    color: #0930de;
 }
 
 .login-link :hover {
@@ -288,7 +289,7 @@ form input {
     }
 
     .nav-links-container,
-     .auth-links-container {
+    .auth-links-container {
         flex-direction: column;
         width: 95%;
         gap: 12px;
